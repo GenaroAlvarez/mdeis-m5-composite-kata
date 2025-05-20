@@ -8,7 +8,7 @@ class DocumentFolder(private val name: String) : DocumentComponent {
     }
 
     override fun getSize(): Int {
-        return files.sumOf { fs -> fs.getSize() }
+        return files.sumOf { it.getSize() }
     }
 
     override fun showDetails() {
