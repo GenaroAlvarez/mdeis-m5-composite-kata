@@ -1,7 +1,7 @@
 # Katas del Patrón Compuesto
 
 ## Integrantes
-- Ing. Alvarez Orias Genaro Mauricio
+- Ing. Alvarez Orias Genaro Mauricio - Grupo 3
 
 ## Kata 8: Sistema de Equipos Deportivos
 
